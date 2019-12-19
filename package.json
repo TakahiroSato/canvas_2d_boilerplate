@@ -16,6 +16,6 @@
     "webpack-cli": "^3.3.10"
   },
   "dependencies": {
-    "@takahiro_sato/canvas2d": "^1.7.0"
+    "@takahiro_sato/canvas2d": "^1.8.0"
   }
 }
